@@ -1,6 +1,8 @@
 # Biomedical-Engineering-Portfolio
 
-Welcome to my portfolio! This repository showcases some of my projects in biomedical signal processing, wearable technology, and EEG/ECG analysis. Each project is linked below with a brief description. Note that the motion tracking project is still ongoing. This portfolio highlights a selection of my work and does not represent the full extent of my projects, in order to avoid conflicts with school submissions.
+Welcome to my portfolio! This repository showcases some of my projects in biomedical signal processing, wearable technology, and EEG/ECG analysis. Each project is linked below with a brief description. Note that the motion tracking project is still ongoing. 
+
+This portfolio highlights a selection of my work and does not represent the full extent of my projects, in order to avoid conflicts with school submissions. The codes have been simlfied extensively, and results can not be shown to their full  capacity. 
 ---
 
 ## Projects
