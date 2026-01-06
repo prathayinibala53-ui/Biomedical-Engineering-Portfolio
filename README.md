@@ -11,7 +11,7 @@ Welcome to my portfolio! This repository showcases some of my projects in biomed
 - Features live plotting, data saving, and signal processing
 - [View Repo](https://github.com/prathayinibala53-ui/Radiosurgery-MotionTracker)
 
-### 2. [ECG QRS Detection (MATLAB)] (https://github.com/prathayinibala53-ui/ECG-Signal-Denoising)
+### 2. [ECG QRS Detection (MATLAB)](https://github.com/prathayinibala53-ui/ECG-Signal-Denoising)
 - Implements Pan-Tompkins algorithm for QRS detection
 - Heart rate, RR intervals, QRS width analysis
 - Works with synthetic ECG signals safe for GitHub
